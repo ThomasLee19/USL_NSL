@@ -1,5 +1,5 @@
 ### **Logbook: Unsupervised Binary Classification Data Preprocessing**  
-**File Name**: `data_preprocess_bin`  
+**File Name**: `dataset_preprocess_bin`  
 
 ---
 
